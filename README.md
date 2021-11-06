@@ -80,7 +80,13 @@ Untuk membuat pengecekan kondisi tersebut dengan menggunakan syntax/source code 
     elif (bilangan1 == bilangan2) and (bilangan1 == bilangan3) and (bilangan2 == bilangan3) 
 ````
 
-    Pada syntax diatas dijelaskan terdapat tiga pengecekan pada semmua variable, yaitu : 1. (bilangan1 == bilangan2) Apakah bilangan pertama lebih besar dari bilangan kedua dan 2. (bilangan1 == bilangan3) Apakah bilangan pertama lebih besar dari bilangan ketiga dan 3. (bilangan2 == bilangan3) Apakah bilangan kedua lebih besar dari bilangan ketiga.
+    Pada syntax diatas dijelaskan terdapat tiga pengecekan pada semmua variable, yaitu :
+    
+    1. (bilangan1 == bilangan2) Apakah bilangan pertama lebih besar dari bilangan kedua dan
+    
+    2. (bilangan1 == bilangan3) Apakah bilangan pertama lebih besar dari bilangan ketiga dan
+    
+    3. (bilangan2 == bilangan3) Apakah bilangan kedua lebih besar dari bilangan ketiga.
 
 Setelah dilakukan pengecekan dan ternnyata semua angka sama besar, maka system akan menampilkan output dengan perintah berikut : 
 
