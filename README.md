@@ -2,7 +2,7 @@
 
 Repository ini dibuat memenuhi tugas pertemuan 7 Bahasa Pemograman (modul praktikum 2) - Teknik Informatika
 
-![Gambar 1](Screenshots/Hasil3.png)
+![Gambar 1](Screenshots/Tugas.png)
 
 
 ### Menentukan Bilangan Terbesar Dari Nilai Yang Diinputkan
