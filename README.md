@@ -106,7 +106,8 @@ Setelah dilakukan pengecekan dan ternnyata semua angka sama besar, maka system a
         print(f"Bilangan ketiga ({bilangan3}) lebih besar dari bilangan pertama dan kedua")
 `````
 
-    Pada syntax diatas akan menampilkan hasil berupa : Bilangan ketiga ({bilangan3}) lebih besar dari bilangan pertama dan kedua
+    Pada syntax diatas akan menampilkan hasil berupa :
+    **Bilangan ketiga ({bilangan3}) lebih besar dari bilangan pertama dan kedua**
 
 Saya akan menampilkan contoh berupa gambar, dengan menggunakan hasil output Bilangan ketiga ({bilangan3}) lebih besar dari bilangan pertama dan kedua 
 1. Saya akan mencoba melakukan inputan dengan bilangan terbesar ada diinputan ketiga.
