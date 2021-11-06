@@ -59,9 +59,11 @@ Dan akan memunculkan hasil seperti berikut :**Bilangan pertama ({bilangan1}) leb
 ````python
     elif (bilangan2 > bilangan1) and (bilangan2 > bilangan3) :
 ````    
-Pada syntax diatas dijelaskan bahwa terdapat dua pengecekan pada angka kedua nya, yaitu :
-1. (bilangan2 > bilangan1) = Apakah bilangan kedua lebih besar dari bilangan pertama dan
-2. (bilangan2 > bilangan3) = Apakah bilangan kedua lebih besar dari bilangan ketiga. 
+    Pada syntax diatas dijelaskan bahwa terdapat dua pengecekan pada angka kedua nya, yaitu :
+
+    1. (bilangan2 > bilangan1) = Apakah bilangan kedua lebih besar dari bilangan pertama dan
+
+    2. (bilangan2 > bilangan3) = Apakah bilangan kedua lebih besar dari bilangan ketiga. 
 
 ````python
 print(f"Bilangan kedua ({bilangan2)} lebih besar dari bilangan pertama dan ketiga")
